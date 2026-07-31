@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
+*.joblib
+labeled.csv
+labeled_postop.csv
+sleep_quality_models.joblib
+
